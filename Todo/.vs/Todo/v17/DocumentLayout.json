@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D57B50BA-8D46-44D2-B070-667F520CEB0D}|Todo.Persistence\\Todo.Persistence.csproj|c:\\users\\user\\source\\repos\\todo\\todo.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57B50BA-8D46-44D2-B070-667F520CEB0D}|Todo.Persistence\\Todo.Persistence.csproj|solutionrelative:todo.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A7E427-D6A4-45F2-9494-41823D590CD4}|Todo.Presentation\\Todo.Presentation.csproj|c:\\users\\user\\source\\repos\\todo\\todo.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A7E427-D6A4-45F2-9494-41823D590CD4}|Todo.Presentation\\Todo.Presentation.csproj|solutionrelative:todo.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|c:\\users\\user\\source\\repos\\todo\\todo.application\\features\\authuser\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\features\\authuser\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|c:\\users\\user\\source\\repos\\todo\\todo.application\\features\\authuser\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\features\\authuser\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|c:\\users\\user\\source\\repos\\todo\\todo.application\\features\\authuser\\queries\\getuserbyusername\\byusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0E3ED-AEB1-48B7-A60F-364A75C0D4F9}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\features\\authuser\\queries\\getuserbyusername\\byusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Todo.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Todo.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:46:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ByUserNameQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Queries\\GetUserByUserName\\ByUserNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Features\\AuthUser\\Queries\\GetUserByUserName\\ByUserNameQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Queries\\GetUserByUserName\\ByUserNameQueryHandler.cs",
+              "RelativeToolTip": "Todo.Application\\Features\\AuthUser\\Queries\\GetUserByUserName\\ByUserNameQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:16:52.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Todo.Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Todo.Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:16:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:34:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "Todo.Application\\Features\\AuthUser\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:34:13.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
