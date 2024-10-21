@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
       "projectName": "Todo.Domain",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Domain\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

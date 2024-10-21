@@ -25,6 +25,6 @@ namespace Todo.Domain.AppUser.Entities
         public string PasswordSalt { get; set; }
 
         public UserStatus Status { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
 }

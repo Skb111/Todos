@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zowLQMFF4Tg=",
+  "dgSpecHash": "OnhR19uDGJI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Todo\\Todo.Application\\Todo.Application.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
