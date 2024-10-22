@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Todo.Domain.AppUser.Entities;
 using Todo.Domain.Todo.Abstractions;
+using Todo.Shared.Exceptions;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetUserByUserName
 {
@@ -8,8 +9,11 @@ namespace Todo.Application.Features.AuthUser.Queries.GetUserByUserName
     {
         public async Task<ApplicationUser?> Handle(ByUserNameQuery request, CancellationToken cancellationToken)
         {
-            var req = request.userRequest;
-            return await repository.FindByUserName(req.Username);
+            var user = await repository.FindByUserName(request.Username);
+
+            if (user == null) throw new NotFoundException("User not found");
+
+            return user;
         }
     }
 }

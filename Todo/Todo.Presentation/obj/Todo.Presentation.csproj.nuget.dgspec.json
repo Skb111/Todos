@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj",
         "projectName": "Todo.Application",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,8 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+              "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+              },
+              "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj"
               }
             }
           }
@@ -78,12 +81,12 @@
         }
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -142,12 +145,12 @@
         }
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj",
         "projectName": "Todo.Persistence",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\obj\\",
         "projectStyle": "PackageReference",
@@ -170,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj"
+              "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj"
               }
             }
           }
@@ -228,12 +231,12 @@
         }
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
         "projectName": "Todo.Presentation",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\obj\\",
         "projectStyle": "PackageReference",
@@ -256,11 +259,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj"
+              "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Application\\Todo.Application.csproj"
               },
-              "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj"
+              "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Persistence\\Todo.Persistence.csproj"
               }
             }
           }
@@ -306,6 +309,84 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj",
+        "projectName": "Todo.Shared",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

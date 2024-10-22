@@ -4,6 +4,6 @@ using Todo.Domain.AppUser.Models;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetUserByUserName
 {
-    public record ByUserNameQuery(UserRequestModel userRequest) : IRequest<ApplicationUser?>;
+    public record ByUserNameQuery(string Username) : IRequest<ApplicationUser?>;
 
 }

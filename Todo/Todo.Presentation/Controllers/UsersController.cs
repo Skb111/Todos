@@ -50,7 +50,7 @@ namespace Todo.Presentation.Controllers
         [Route("users/username/{username}")]
         public async Task<IActionResult> GetUserByUsername(string username)
         {
-            var query = new ByUserNameQuery(new UserRequestModel(Email: "", Username: username, Password: ""));
+            var query = new ByUserNameQuery(username);
             var user = await mediator.Send(query);
 
             if (user != null)

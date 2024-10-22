@@ -38,3 +38,5 @@ C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\obj\Debug\net8.0\r
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.pdb
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.genruntimeconfig.cache
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\obj\Debug\net8.0\ref\Todo.Persistence.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\bin\Debug\net8.0\Todo.Shared.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Persistence\bin\Debug\net8.0\Todo.Shared.pdb

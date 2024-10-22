@@ -30,3 +30,5 @@ C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\obj\Debug\net8.0\T
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\obj\Debug\net8.0\refint\Todo.Application.dll
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.pdb
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\obj\Debug\net8.0\ref\Todo.Application.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\bin\Debug\net8.0\Todo.Shared.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Application\bin\Debug\net8.0\Todo.Shared.pdb

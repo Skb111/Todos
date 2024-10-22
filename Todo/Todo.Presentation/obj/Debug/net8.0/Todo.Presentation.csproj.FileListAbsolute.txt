@@ -290,3 +290,8 @@ C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\Todo.Presentation.pdb
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\Todo.Presentation.genruntimeconfig.cache
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\ref\Todo.Presentation.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\bin\Debug\net8.0\Todo.Shared.dll
+C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\bin\Debug\net8.0\Todo.Shared.pdb

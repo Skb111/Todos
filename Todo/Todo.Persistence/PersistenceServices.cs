@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -20,7 +21,10 @@ namespace Todo.Persistence
 
             services.AddDbContext<TodoDbContext>(option => option.UseSqlServer(connection));
 
-            services.AddScoped<IUserRepository, UserRepository>();
+
+            services.AddValidatorsFromAssembly(Shared.AssemblyReference.Assembly);
+
+            services.AddTransient<IUserRepository, UserRepository>();
             //services.AddScoped<ITodoRepository, TodoRepository>();
 
             return services;
