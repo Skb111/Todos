@@ -9,6 +9,6 @@ using Todo.Domain.AppUser.Models;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetUserById
 {
-    public record ByUserIdQuery(UserRequestModelId userRequest) : IRequest<ApplicationUser?>;
+    public record ByUserIdQuery(Guid ApplicationUserId) : IRequest<ApplicationUser?>;
 
 }

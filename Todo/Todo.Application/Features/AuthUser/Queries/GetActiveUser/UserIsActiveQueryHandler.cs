@@ -8,11 +8,10 @@ namespace Todo.Application.Features.AuthUser.Queries.GetActiveUser
     {
         public async Task<ApplicationUser?> Handle(UserIsActiveQuery request, CancellationToken cancellationToken)
         {
-            var req = request.userRequest;
-            var user = await repository.FindById(req.ApplicationUserId);
-            if (user != null && user.Status == UserStatus.Active)
+            var req = await repository.FindById(request.ApplicationUserId);
+            if (req != null && req.Status == UserStatus.Active)
             {
-                return user;
+                return req;
             }
             return null;
         }

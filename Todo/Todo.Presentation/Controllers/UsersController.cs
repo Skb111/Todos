@@ -47,7 +47,7 @@ namespace Todo.Presentation.Controllers
         }
 
         [HttpGet]
-        [Route("users/username/{username}")]
+        [Route("users/username")]
         public async Task<IActionResult> GetUserByUsername(string username)
         {
             var query = new ByUserNameQuery(username);
@@ -64,10 +64,10 @@ namespace Todo.Presentation.Controllers
         }
 
         [HttpGet]
-        [Route("users/email/{email}")]
+        [Route("users/email")]
         public async Task<IActionResult> GetUserByEmail(string email)
         {
-            var query = new ByUserEmailQuery(new UserRequestModel(Email: email, Username: "", Password: ""));
+            var query = new ByUserEmailQuery(Email: email);
             var user = await mediator.Send(query);
 
             if (user != null)
@@ -81,10 +81,10 @@ namespace Todo.Presentation.Controllers
         }
 
         [HttpGet]
-        [Route("users/Id/{applicationUserId}")]
+        [Route("users/Id")]
         public async Task<IActionResult> GetUserById(Guid applicationUserId)
         {
-            var query = new ByUserIdQuery(new UserRequestModelId( ApplicationUserId : applicationUserId));
+            var query = new ByUserIdQuery(ApplicationUserId : applicationUserId);
             var user = await mediator.Send(query);
 
             if (user != null)
@@ -98,12 +98,12 @@ namespace Todo.Presentation.Controllers
         }
 
         [HttpGet]
-        [Route("user/is-active/{ApplicationUserId}")]
+        [Route("user/is-active")]
         public async Task<IActionResult> IsUserActive(Guid ApplicationUserId)
         {
             var userRequest = new UserRequestModelId(ApplicationUserId); 
 
-            var user = await mediator.Send(new UserIsActiveQuery(userRequest));
+            var user = await mediator.Send(userRequest.ApplicationUserId);
 
             if (user == null)
             {

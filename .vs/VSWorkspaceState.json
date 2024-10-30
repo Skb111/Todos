@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Todo"
+    "\\Todo",
+    "\\Todo\\Todo.Application",
+    "\\Todo\\Todo.Persistence",
+    "\\Todo\\Todo.Persistence\\Database",
+    "\\Todo\\Todo.Persistence\\Database\\DbConfigurations",
+    "\\Todo\\Todo.Presentation",
+    "\\Todo\\Todo.Presentation\\Controllers"
   ],
+  "SelectedNode": "\\Todo\\Todo.Application\\ApplicationServices.cs",
   "PreviewInSolutionExplorer": false
 }

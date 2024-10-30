@@ -9,5 +9,5 @@ using Todo.Domain.AppUser.Models;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetUserByEmail
 {
-    public record ByUserEmailQuery(UserRequestModel userRequest) : IRequest<ApplicationUser?>;
+    public record ByUserEmailQuery(string Email) : IRequest<ApplicationUser?>;
 }

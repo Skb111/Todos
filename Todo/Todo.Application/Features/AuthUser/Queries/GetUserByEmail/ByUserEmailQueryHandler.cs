@@ -9,12 +9,12 @@ using Todo.Domain.Todo.Abstractions;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetUserByEmail
 {
-    internal sealed class ByEmailQueryHandler(IUserRepository repository) : IRequestHandler<ByUserEmailQuery, ApplicationUser?>
+    internal sealed class ByUserEmailQueryHandler(IUserRepository repository) : IRequestHandler<ByUserEmailQuery, ApplicationUser?>
     {
         public async Task<ApplicationUser?> Handle(ByUserEmailQuery request, CancellationToken cancellationToken)
         {
-            var req = request.userRequest;
-            return await repository.FindByEmail(req.Email);
+            var req = await repository.FindByEmail(request.Email);
+            return req;
 
         }
     }

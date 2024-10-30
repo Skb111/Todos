@@ -9,6 +9,6 @@ using Todo.Domain.AppUser.Models;
 
 namespace Todo.Application.Features.AuthUser.Queries.GetActiveUser
 {
-    public record UserIsActiveQuery(UserRequestModelId userRequest) : IRequest<ApplicationUser?>;
+    public record UserIsActiveQuery(Guid ApplicationUserId) : IRequest<ApplicationUser?>;
 
 }

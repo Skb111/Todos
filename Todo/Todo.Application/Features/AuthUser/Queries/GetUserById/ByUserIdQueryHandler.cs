@@ -14,8 +14,8 @@ namespace Todo.Application.Features.AuthUser.Queries.GetUserById
     {
         public async Task<ApplicationUser?> Handle(ByUserIdQuery request, CancellationToken cancellationToken)
         {
-            var req = request.userRequest;
-            return await repository.FindById(req.ApplicationUserId);  
+            var req = await repository.FindById(request.ApplicationUserId);
+            return req;  
         }
     }
 }
