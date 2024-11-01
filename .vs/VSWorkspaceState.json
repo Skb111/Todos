@@ -2,13 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\Todo",
-    "\\Todo\\Todo.Application",
     "\\Todo\\Todo.Persistence",
     "\\Todo\\Todo.Persistence\\Database",
     "\\Todo\\Todo.Persistence\\Database\\DbConfigurations",
+    "\\Todo\\Todo.Persistence\\Repositories",
     "\\Todo\\Todo.Presentation",
-    "\\Todo\\Todo.Presentation\\Controllers"
+    "\\Todo\\Todo.Presentation\\Controllers",
+    "\\Todo\\Todo.Shared",
+    "\\Todo\\Todo.Shared\\Exceptions",
+    "\\Todo\\Todo.Shared\\Exceptions\\Handler"
   ],
-  "SelectedNode": "\\Todo\\Todo.Application\\ApplicationServices.cs",
+  "SelectedNode": "\\Todo\\Todo.Persistence\\Database\\TodoDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

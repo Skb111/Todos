@@ -27,7 +27,7 @@ namespace Todo.Presentation.Controllers
 
         [HttpPost]
         [Route("users")]
-        public async Task<IActionResult> AddUser(UserRequestModel request)
+        public async Task<IActionResult> AddUser(UserRequestModel request) 
         {
 
             var userReq = new CreateUserCommand(request);

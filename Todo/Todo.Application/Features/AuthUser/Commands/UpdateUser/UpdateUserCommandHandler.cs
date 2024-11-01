@@ -23,7 +23,7 @@ namespace Todo.Application.Features.AuthUser.Commands.UpdateUser
                 user.Email = req.Email;
                 user.Password = req.Password;
                 user.PasswordSalt = Guid.NewGuid().ToString();
-                user.CreatedAt = DateTime.UtcNow;
+                user.CreatedAt = DateTime.UtcNow; 
 
 
                 var userupdate = await repository.UpdateAsync(user);

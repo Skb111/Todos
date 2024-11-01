@@ -25,6 +25,7 @@ namespace Todo.Persistence
             services.AddValidatorsFromAssembly(Shared.AssemblyReference.Assembly);
 
             services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<ITodoRepository, TodoRepository>();
             //services.AddScoped<ITodoRepository, TodoRepository>();
 
             return services;

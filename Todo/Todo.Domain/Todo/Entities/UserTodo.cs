@@ -10,9 +10,12 @@ namespace Todo.Domain.Todo.Entities
 {
     public class UserTodo
     {
+        public UserTodo(string title, string description)
+        {
+            Title = title;
+            Description = description;
+        }
         public Guid TodoId { get; set; }
-
-
         public string Title { get; set; } = default!;
         public string Description { get; set; } = default!;
         public DateTime CreatedAt { get; set; }
