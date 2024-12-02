@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bcv1LL5418o=",
+  "dgSpecHash": "7aP8cFVWE8w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

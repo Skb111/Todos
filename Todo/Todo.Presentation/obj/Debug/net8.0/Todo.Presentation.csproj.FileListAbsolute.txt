@@ -294,3 +294,4 @@ C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\Todo.Pre.156F7E39.Up2Date
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\Todo.Presentation.genruntimeconfig.cache
 C:\Users\USER\Source\Repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\ref\Todo.Presentation.dll
+C:\Users\USER\source\repos\Skb111\Todos\Todo\Todo.Presentation\obj\Debug\net8.0\Todo.Presentation.MvcApplicationPartsAssemblyInfo.cs

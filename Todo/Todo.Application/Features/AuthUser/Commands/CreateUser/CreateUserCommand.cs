@@ -13,7 +13,7 @@ namespace Todo.Application.Features.AuthUser.Commands.CreateUser
     public record CreateUserCommand(UserRequestModel userRequest) :IRequest<ApplicationUser>;
 
 
-    public class CreateUserValidation:AbstractValidator<CreateUserCommand>
+    public class CreateUserValidation:AbstractValidator<CreateUserCommand> 
     {
         public CreateUserValidation()
         {
