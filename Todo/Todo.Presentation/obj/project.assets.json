@@ -4741,7 +4741,7 @@
       "projectName": "Todo.Presentation",
       "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\Todo.Presentation.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -25,7 +25,7 @@ namespace Todo.Application.Features.AuthUser.Commands.UpdateTodo
                     todo.Title = req.Title;
                     todo.Description = req.Description;
                     todo.Status = TodoStatus.Completed;
-                    todo.CreatedAt = DateTime.UtcNow;
+                    todo.CreatedAt = DateTime.Now;
                     todo.FinishedAt = null;
                 }
                 var result = await todoRepository.UpdateAsync(todo);

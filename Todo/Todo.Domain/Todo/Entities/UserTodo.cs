@@ -21,7 +21,6 @@ namespace Todo.Domain.Todo.Entities
         public DateTime CreatedAt { get; set; }
         public DateTime? FinishedAt { get; set; }
         public Guid UserId { get; set; }
-
         public TodoStatus Status { get; set; }
         public ApplicationUser ApplicationUser { get; set; }
     }

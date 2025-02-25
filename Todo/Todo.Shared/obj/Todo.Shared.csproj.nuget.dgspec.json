@@ -11,7 +11,7 @@
         "projectName": "Todo.Shared",
         "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\Todo.Shared.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\Skb111\\Todos\\Todo\\Todo.Shared\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Todos\\Todo\\Todo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
